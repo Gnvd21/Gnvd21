@@ -4,7 +4,7 @@ IT graduate & software developer skilled in Python, JavaScript, and full-stack w
 
 ## About me
 - Location: Philippines
-- Education: Bs in Information Technology
+- Education: BS in Information Technology
 
 ## Skills
 
