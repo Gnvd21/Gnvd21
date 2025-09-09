@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+IT graduate & software developer skilled in Python, JavaScript, and full-stack web development. By blending code, creativity, and problem-solving, I'm passionate about building tools that make tech more useful and user-friendly.
+
 <!--
 **Gnvd21/Gnvd21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
