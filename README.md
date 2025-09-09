@@ -16,13 +16,12 @@ IT graduate & software developer skilled in Python, JavaScript, and full-stack w
 ![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ## Front-end
 ![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)
 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!--
 **Gnvd21/Gnvd21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
