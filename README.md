@@ -17,7 +17,11 @@ IT graduate & software developer skilled in Python, JavaScript, and full-stack w
 ![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge)
 
 ## Front-end
-![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-282c34?style=for-the-badge&logo=react&logoColor=white)
+
+## Back-end
+![Express.js](https://img.shields.io/badge/Express.js-282c34?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-282c34?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
