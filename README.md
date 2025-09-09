@@ -14,6 +14,7 @@ IT graduate & software developer skilled in Python, JavaScript, and full-stack w
 ![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=FFD43B)
 ![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
